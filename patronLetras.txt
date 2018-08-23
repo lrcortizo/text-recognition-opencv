@@ -1,0 +1,13 @@
+!"#$%&'()*+,-./0123456789:;<=>?
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^
+`abcdefghijklmnopqrstuvwxyz{|}~
+αινσϊ
+
+
+En la imagen:
+- la fila 0 de caracteres empieza en la fila 0
+- la fila 1 de caracteres empieza en la fila 56
+- la fila 2 de caracteres empieza en la fila 56*2 = 112
+- la fila 3 de caracteres empieza en la fila 56*3 = 168
+
+Todos los carateres ocupan 15 pixel de ancho y 36 de alto.
